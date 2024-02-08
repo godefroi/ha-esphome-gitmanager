@@ -1,0 +1,7 @@
+name: "ESPHome Git Manager"
+description: "Allows the management of ESPHome configs in a git repository"
+version: "1.0.0"
+slug: "esphome_gitmanager"
+init: false
+arch:
+  - amd64
